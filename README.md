@@ -28,7 +28,7 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 - `Walmart Sales DB.pbix` - Power BI dashboard file.
 - `Walmart Sales Dashboard Image.png` - Screenshot of the dashboard.
 - `README.md` - Project documentation.
-- `Walmart.csv - CSV file of the Dataset
+- `Walmart.csv` - CSV file of the Dataset
 
 
 ---
