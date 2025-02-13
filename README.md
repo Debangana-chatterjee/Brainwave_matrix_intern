@@ -40,8 +40,8 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 
 ---
 ### 📈 Insights & Findings
--**Seasonal Trends**: Sales peak in August, followed by a sharp drop in September.
--**Top-Selling Products**: Fridge, Tablets, and TVs are the most popular.
--**Category Performance**: Electronics slightly outperform Appliances .
--**Loyalty Impact**: Platinum and Silver customers generate the highest revenue.
--**Customer Demographics**: Sales are fairly balanced across genders.
+- **Seasonal Trends**: Sales peak in August, followed by a sharp drop in September.
+- **Top-Selling Products**: Fridge, Tablets, and TVs are the most popular.
+- **Category Performance**: Electronics slightly outperform Appliances .
+- **Loyalty Impact**: Platinum and Silver customers generate the highest revenue.
+- **Customer Demographics**: Sales are fairly balanced across genders.
