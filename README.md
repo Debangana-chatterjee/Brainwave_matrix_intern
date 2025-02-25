@@ -49,3 +49,11 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 
 ---
 ## Task-2 Social Media Sentiment Analysis
+
+### 📌 Project Overview
+This project aims to analyze sentiment from tweeter posts using NLP techniques.The dataset contains 1,600,000 tweets, extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
+
+---
+### 📂 Files in the Repository
+- 
+- `README.md` - Project documentation.
