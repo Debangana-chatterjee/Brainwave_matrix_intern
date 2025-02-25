@@ -55,5 +55,5 @@ This project aims to analyze sentiment from tweeter posts using NLP techniques.T
 
 ---
 ### 📂 Files in the Repository
-- 
+- `Social_Media_Sentiment_Analysis.ipynb` - 
 - `README.md` - Project documentation.
