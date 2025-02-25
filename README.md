@@ -46,3 +46,6 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 - **Category Performance**: Electronics slightly outperform Appliances .
 - **Loyalty Impact**: Platinum and Silver customers generate the highest revenue.
 - **Customer Demographics**: Sales are fairly balanced across genders.
+
+---
+## Task-2 Social Media Sentiment Analysis
