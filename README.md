@@ -47,13 +47,51 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 - **Loyalty Impact**: Platinum and Silver customers generate the highest revenue.
 - **Customer Demographics**: Sales are fairly balanced across genders.
 
+
 ---
 ## Task-2 Social Media Sentiment Analysis
 
 ### 📌 Project Overview
 This project aims to analyze sentiment from tweeter posts using NLP techniques.The dataset contains 1,600,000 tweets, extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 
+
 ---
 ### 📂 Files in the Repository
-- `Social_Media_Sentiment_Analysis.ipynb` - 
+- `Social_Media_Sentiment_Analysis.ipynb` - Model training notebook
 - `README.md` - Project documentation.
+- `lr.pkl` - Trained logistic regression model
+- `app.py` - Streamlit web app
+
+
+---
+### Features
+✅ Preprocessing: Removes stopwords, applies stemming, and cleans text
+✅ Machine Learning Model: Uses a trained Logistic Regression model (lr.pkl)
+✅ User-Friendly UI: Built with Streamlit for easy tweet sentiment prediction
+
+
+---
+### 📊 How It Works
+- Enter a tweet in the input box
+- Click Predict
+- The app classifies the sentiment as Positive or Negative
+
+
+---
+### 🛠 Model Training
+The model was trained using Logistic Regression on a dataset of labeled tweets. The preprocessing steps include:
+
+- Removing special characters
+- Tokenization & stopword removal
+- Stemming using Porter Stemmer
+
+The full training process is documented in Social_Media_Sentiment_Analysis.ipynb.
+
+
+---
+### 🏗 Future Improvements
+- ✅ Add Neutral category
+- 📈 Improve accuracy with Deep Learning models.
+
+
+---
