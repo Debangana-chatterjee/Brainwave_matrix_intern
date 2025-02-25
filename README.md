@@ -65,9 +65,9 @@ This project aims to analyze sentiment from tweeter posts using NLP techniques.T
 
 ---
 ### Features
-✅ Preprocessing: Removes stopwords, applies stemming, and cleans text
-✅ Machine Learning Model: Uses a trained Logistic Regression model (lr.pkl)
-✅ User-Friendly UI: Built with Streamlit for easy tweet sentiment prediction
+- ✅ Preprocessing: Removes stopwords, applies stemming, and cleans text
+- ✅ Machine Learning Model: Uses a trained Logistic Regression model (lr.pkl)
+- ✅ User-Friendly UI: Built with Streamlit for easy tweet sentiment prediction
 
 
 ---
