@@ -27,7 +27,6 @@ The **Walmart Sales Dashboard** (Power BI) includes the following key metrics:
 - `Walmart Sales Analysis.ipynb` - Jupyter Notebook for sales data analysis in Python.
 - `Walmart Sales DB.pbix` - Power BI dashboard file.
 - `Walmart Sales Dashboard Image.png` - Screenshot of the dashboard.
-- `README.md` - Project documentation.
 - `Walmart.csv` - CSV file of the Dataset
 
 
@@ -58,9 +57,10 @@ This project aims to analyze sentiment from tweeter posts using NLP techniques.T
 ---
 ### 📂 Files in the Repository
 - `Social_Media_Sentiment_Analysis.ipynb` - Model training notebook
-- `README.md` - Project documentation.
 - `lr.pkl` - Trained logistic regression model
-- `app.py` - Streamlit web app
+- `app.py` - Streamlit UI 
+- 📥 [Download the raw Dataset](https://drive.google.com/file/d/1VITBZJ9wePKz3hiEdx17JkkN6ohEG7QH/view?usp=drive_link)
+
 
 
 ---
